@@ -4,6 +4,8 @@ Up to date resume, and other career related material
 
 #### Short Bio
 
+Natalino Busa has served as scientist at Philips Research, and later has contributed as lead engineer and scientist in banking, infotainment and telecom. In his past roles, he has bootstrapped technology innovation and R&D teams and products. Passionate about data science, distributed computing, man-machine interfaces, AI, and cloud computing.
+
 
 #### Resume and other documents
 
@@ -12,7 +14,10 @@ Up to date resume, and other career related material
 
 #### Publications
 
+My publications can be found on [google scolar](https://scholar.google.com.sg/citations?user=tWVGk_QAAAAJ&hl=en)  
 
+  - bibtex file:  [publications.bib](https://github.com/natbusa/resume/raw/master/sources/publications.bib)  
+  - pdf file: [publications.pdf](https://github.com/natbusa/resume/raw/master/files/publications.pdf)
 
 #### Contact
 
