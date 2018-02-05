@@ -12,7 +12,7 @@ Natalino Busa has served as scientist at Philips Research, and later has contrib
 
 #### Resume and other documents
 
-[natalino.busa.resume.pdf](https://github.com/natbusa/resume/raw/master/files/natalino.busa.intro.pdf)  
+[natalino.busa.resume.pdf](https://github.com/natbusa/resume/raw/master/files/natalino.busa.resume.pdf)  
 [natalino.busa.intro.pdf](https://github.com/natbusa/resume/raw/master/files/natalino.busa.intro.pdf)
 
 #### Publications
