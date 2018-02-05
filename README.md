@@ -7,10 +7,11 @@ Up to date resume, and other career related material
 
 #### Resume and other documents
 
-[natalino.busa.resume.pdf](https://github.com/natbusa/resume/raw/master/natalino.busa.intro.pdf)
-[natalino.busa.intro.pdf] (https://github.com/natbusa/resume/raw/master/natalino.busa.intro.pdf)
+[natalino.busa.resume.pdf](https://github.com/natbusa/resume/raw/master/natalino.busa.intro.pdf)  
+[natalino.busa.intro.pdf](https://github.com/natbusa/resume/raw/master/natalino.busa.intro.pdf)
 
 #### Publications
+
 
 
 #### Contact
