@@ -1,6 +1,6 @@
 ### Natalino Busa
 
-Up to date resume, and other career related material
+Up to date resume, and other work/passion related material
 
 #### Short Bio
 
