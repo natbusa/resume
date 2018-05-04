@@ -24,5 +24,5 @@ My publications can be found on [google scolar](https://scholar.google.com.sg/ci
 
 #### Contact
 
-tel/whatsapp: +6590078702  
+whatsapp: +6582056578
 email: natalino.busa@gmail.com
