@@ -4,7 +4,7 @@ Up to date resume, and other work/passion related material
 
 #### Short Bio
 
-Natalino Busa has served as scientist at Philips Research, and later has contributed as lead engineer and scientist in banking, infotainment and telecom. In his past roles, he has bootstrapped R&D teams and delivered digital products, in particular about data-driven applications such as anomaly detection, behaviour forecasting, and predictive analytics. Passionate about data science, distributed computing, man-machine interfaces, AI, and cloud computing.
+Natalino Busa has bootstrapped R&D teams and delivered digital products and data-driven applications for banking, retail, infotainment and telecom domains. He has worked in the past as lead engineer and scientist for Philips, and ING Bank in the Netherlands and DBS bank in Singapore, and currently Chief Scientist at Teko in Vietnam. Author for O'Reilly Media on Spark and Data Science Applications. Passionate about data science, data engineering, distributed computing, man-machine interfaces, AI and cloud computing.
 
 #### Website
 
@@ -24,5 +24,5 @@ My publications can be found on [google scolar](https://scholar.google.com.sg/ci
 
 #### Contact
 
-whatsapp: +6582056578.  
 email: natalino.busa@gmail.com
+linkedin: 
