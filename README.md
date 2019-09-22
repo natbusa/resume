@@ -4,7 +4,7 @@ Up to date resume, and other work/passion related material
 
 #### Short Bio
 
-Natalino Busa has bootstrapped R&D teams and delivered digital products and data-driven applications for banking, retail, infotainment and telecom domains. He has worked in the past as lead engineer and scientist for Philips, and ING Bank in the Netherlands and DBS bank in Singapore, and currently Chief Scientist at Teko in Vietnam. Author for O'Reilly Media on Spark and Data Science Applications. Passionate about data science, data engineering, distributed computing, man-machine interfaces, AI and cloud computing.
+Natalino Busa currently founder of [SELECT COUNT(\*)](http://selectcountstar.com) data engineering services in Singapore. Natalino Busa has bootstrapped R&D teams and delivered digital products and data-driven applications for banking, retail, infotainment and telecom domains. He has worked in the past as lead engineer and scientist for Philips, and ING Bank in the Netherlands and DBS bank in Singapore, and currently Chief Scientist at Teko in Vietnam. Author for O'Reilly Media on Spark and Data Science Applications. Passionate about data science, data engineering, distributed computing, man-machine interfaces, AI and cloud computing.
 
 #### Website
 
