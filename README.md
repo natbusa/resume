@@ -31,5 +31,6 @@ My publications can be found on [google scolar](https://scholar.google.com.sg/ci
 
 #### Contact
 
-email: natalino.busa@gmail.com
-linkedin: 
+email: natalino.busa@gmail.com  
+linkedin: https://www.linkedin.com/in/natbusa  
+phone/text: +65 8438 2445
