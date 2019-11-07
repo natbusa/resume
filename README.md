@@ -11,7 +11,7 @@ solutions. He provides a unique combination of business vision, applied data sci
 
 #### Short Bio
 
-Natalino Busa is currently Chief Data Advisor at VN Life in Singapor and founder of [SELECT COUNT(\*)](http://selectcountstar.com) data engineering services in Singapore. He has worked in the past as chief engineer and scientist for Philips, ING Bank in the Netherlands and DBS bank in Singapore. More recently he has served as Chief Scientist for Teko and VnPay in Vietnam. Author for O'Reilly Media on Spark and Data Science Applications. Passionate about data science, data engineering, distributed computing, man-machine interfaces, AI and cloud computing.
+Natalino Busa is currently Chief Data Advisor at VN Life ltd. in Singapore and founder of [SELECT COUNT(\*)](http://selectcountstar.com) data engineering services. He has worked in the past as chief engineer and scientist for Philips Research and ING Bank in the Netherlands and DBS bank in Singapore. More recently he has served as Chief Scientist for Teko and VnPay in Vietnam. Author for O'Reilly Media on Spark and Data Science Applications. Passionate about data science, data engineering, distributed computing, man-machine interfaces, AI and cloud computing.
 
 #### Website
 
