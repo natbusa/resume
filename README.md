@@ -1,10 +1,17 @@
 ### Natalino Busa
 
 Up to date resume, and other work/passion related material
+#### Profile
+
+Chief Data Scientist, Director of Data Engineering. Natalino Busa is skilled at defining, designing and implementing 
+custom big/fast data solutions for data-driven applications such as predictive analytics, personalized marketing, fraud detection and business event monitoring.
+
+Natalino has successfully led teams across the world in a number of domains with effective, fit-for-purpose and reliable
+solutions. He provides a unique combination of business vision, applied data science and engineering skills. 
 
 #### Short Bio
 
-Natalino Busa currently founder of [SELECT COUNT(\*)](http://selectcountstar.com) data engineering services in Singapore. Natalino Busa has bootstrapped R&D teams and delivered digital products and data-driven applications for banking, retail, infotainment and telecom domains. He has worked in the past as lead engineer and scientist for Philips, and ING Bank in the Netherlands and DBS bank in Singapore, and currently Chief Scientist at Teko in Vietnam. Author for O'Reilly Media on Spark and Data Science Applications. Passionate about data science, data engineering, distributed computing, man-machine interfaces, AI and cloud computing.
+Natalino Busa is currently Chief Data Advisor at VN Life in Singapor and founder of [SELECT COUNT(\*)](http://selectcountstar.com) data engineering services in Singapore. He has worked in the past as chief engineer and scientist for Philips, ING Bank in the Netherlands and DBS bank in Singapore. More recently he has served as Chief Scientist for Teko and VnPay in Vietnam. Author for O'Reilly Media on Spark and Data Science Applications. Passionate about data science, data engineering, distributed computing, man-machine interfaces, AI and cloud computing.
 
 #### Website
 
