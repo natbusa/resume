@@ -30,9 +30,9 @@ man-machine interfaces, AI and cloud computing.
 
 #### On the web
 
-[natalinobusa.com](http://natalinobusa.com)
-[www.linkedin.com](https://www.linkedin.com/in/natbusa/)
-[github.com](https://github.com/natbusa)
+[natalinobusa.com](http://natalinobusa.com)  
+[www.linkedin.com](https://www.linkedin.com/in/natbusa/)  
+[github.com](https://github.com/natbusa)  
 
 #### Resume and other documents
 
