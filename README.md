@@ -19,20 +19,21 @@ business vision, applied data science and engineering skills.
 
 #### Short Bio
 
-Natalino Busa is currently Chief Data Advisor at VN Life ltd. in Singapore and
-founder of [SELECT COUNT(\*)](http://selectcountstar.com) data engineering
-services. He has worked in the past as chief engineer and scientist for Philips,
+Natalino Busa is currently CTO at Stemly, where he is currently developing a SaaS for
+demand forecasting and optimization. Previously, Chief Data Advisor at Teko in Vietnam.
+He has worked in the past as chief engineer and scientist for Philips,
 ING Bank and Teradata in the Netherlands, DBS bank in Singapore and VnPay in
 Vietnam. More recently he has served as Chief Scientist for Teko and VnPay in
 Vietnam. Author for O'Reilly Media on Spark and Data Science Applications.
 Passionate about data science, data engineering, distributed computing,
-man-machine interfaces, AI and cloud computing.  
+man-machine interfaces, AI and cloud computing.  Founder of [SELECT COUNT(\*)](http://selectcountstar.com) data engineering
+services.
 
 #### On the web
 
-[natalinobusa.com](http://natalinobusa.com)  
-[www.linkedin.com](https://www.linkedin.com/in/natbusa/)  
-[github.com](https://github.com/natbusa)  
+[twitter](https://twitter.com/natbusa)  
+[linkedin](https://www.linkedin.com/in/natbusa/)  
+[github](https://github.com/natbusa)  
 
 #### Resume and other documents
 
