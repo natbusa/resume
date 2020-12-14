@@ -4,12 +4,12 @@ Up to date resume, and other work/passion related material
 
 #### Profile
 
-Senior Director of Data: Covering the full spectrum of Data Applications as in
-Engineering, Science, Analytics, Reporting, AI, Big Data and Streaming Data.
-Managing all data related activities & teams. Reporting directly to CFO/CEO.
+Chief Data/ML Engineer and CTO: Covering the full spectrum of Data Applications as in
+Engineering, Science, Analytics, AI, Big Data and Streaming Data.
+Managing all data related activities & teams. Reporting directly to CFO/CMO/CEO.
 
-Natalino Busa is skilled at defining, designing and implementing custom big/fast
-data solutions (web, mobile, api, dataflows) for data-driven applications such
+Natalino Busa is skilled at defining, designing and implementing custom data solutions 
+(web, mobile, api, dataflows) at scale and in production for data-driven applications such
 as predictive analytics, personalized marketing, fraud detection and business
 event monitoring.
 
@@ -26,8 +26,7 @@ ING Bank and Teradata in the Netherlands, DBS bank in Singapore and VnPay in
 Vietnam. More recently he has served as Chief Scientist for Teko and VnPay in
 Vietnam. Author for O'Reilly Media on Spark and Data Science Applications.
 Passionate about data science, data engineering, distributed computing,
-man-machine interfaces, AI and cloud computing.  Founder of [SELECT COUNT(\*)](http://selectcountstar.com) data engineering
-services.
+man-machine interfaces, AI and cloud computing.  
 
 #### On the web
 
