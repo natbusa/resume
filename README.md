@@ -4,13 +4,11 @@ Up to date resume, and other work/passion related material
 
 #### Profile
 
-Hi there 👋. I am an all-round Principal Data Scientist/Engineer, and an AI and Technology Innovator with decades of experience in development, management and research of scalable data-centric services and applications.
+Hi there 👋.  I am an all-round Principal Data Scientist/Engineer, and an AI and Technology Innovator with decades of experience in development, management and research of scalable data-centric services and applications.
 
-Proficient at translating CxO strategies into data-driven, customer-centric solutions, I have successfully delivered data pipelines on state-of-the-art data architectures across multiple regions and organizations.
+Proficient at translating CxO strategies into data-driven, customer-centric solutions, I have successfully delivered data pipelines on state-of-the-art data architectures across multiple regions and organizations. I am a science and technology lead, people coach and motivator, who thrives in work-learn-grow environments. 
 
-I am a science and technology lead, people coach and motivator, who thrives in work-learn-grow environments. Passionate about startups, scaleups and enterprises with a strong data-driven dna such as machine learning, streaming big/fast data pipelines, reactive programming, and api services.
-
-Skilled in Artificial Intelligence, Machine Learning, Deep Learning, Graph Analysis. Big Data analysis (unstructured data, pattern recognition, sentiment analysis, geo-spatial location and social network analysis) and AI applied to business and strategy.
+Skilled in Artificial Intelligence, Machine Learning, Deep Learning, Graph Analysis. Big Data analysis (unstructured data, pattern recognition, sentiment analysis, geo-spatial location and social network analysis), business digital transformation and technology strategy.
 
 #### Short Bio
 
