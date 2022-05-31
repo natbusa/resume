@@ -4,28 +4,21 @@ Up to date resume, and other work/passion related material
 
 #### Profile
 
-Chief Data/ML Engineer and CTO: Covering the full spectrum of Data Applications as in
-Engineering, Science, Analytics, AI, Big Data and Streaming Data.
-Managing all data related activities & teams. Reporting directly to CFO/CMO/CEO.
+Hi there 👋. I am an all-round Principal Data Scientist/Engineer, and an AI and Technology Innovator with decades of experience in development, management and research of scalable data-centric services and applications.
 
-Natalino Busa is skilled at defining, designing and implementing custom data solutions 
-(web, mobile, api, dataflows) at scale and in production for data-driven applications such
-as predictive analytics, personalized marketing, fraud detection and business
-event monitoring.
+Proficient at translating CxO strategies into data-driven, customer-centric solutions, I have successfully delivered data pipelines on state-of-the-art data architectures across multiple regions and organizations.
 
-Natalino has successfully led teams across the world with effective,
-fit-for-purpose and reliable solutions. He provides a unique combination of
-business vision, applied data science and engineering skills.
+I am a science and technology lead, people coach and motivator, who thrives in work-learn-grow environments. Passionate about startups, scaleups and enterprises with a strong data-driven dna such as machine learning, streaming big/fast data pipelines, reactive programming, and api services.
+
+Skilled in Artificial Intelligence, Machine Learning, Deep Learning, Graph Analysis. Big Data analysis (unstructured data, pattern recognition, sentiment analysis, geo-spatial location and social network analysis) and AI applied to business and strategy.
 
 #### Short Bio
 
-Natalino Busa is currently CTO at Stemly, where he is currently developing a SaaS for
-demand forecasting and optimization. Previously, Chief Data Advisor at Teko in Vietnam.
-He has worked in the past as chief engineer and scientist for Philips,
-ING Bank and Teradata in the Netherlands, DBS bank in Singapore and VnPay in
-Vietnam. More recently he has served as Chief Scientist for Teko and VnPay in
-Vietnam. Author for O'Reilly Media on Spark and Data Science Applications.
-Passionate about data science, data engineering, distributed computing,
+Natalino Busa is currently Head of Science and Technology at Stemly, 
+where he is currently developing a SaaS for supply-chain demand forecasting and optimization.
+
+He has worked in the past as chief engineer and scientist for Philips,ING Bank and Teradata in the Netherlands, DBS bank in Singapore and VnPay in
+Vietnam. Passionate about data science, data engineering, distributed computing,
 man-machine interfaces, AI and cloud computing.  
 
 #### On the web
