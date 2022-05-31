@@ -28,7 +28,7 @@ man-machine interfaces, AI and cloud computing.
 
 #### Resume and other documents
 
-[natalino.busa.resume.pdf](https://drive.google.com/file/d/1oKd_k9OP_FogNrPbG3liBbKHodbjYQ-v/view?usp=sharing)
+[natalino.busa.resume.pdf](https://drive.google.com/file/d/1HpicXV6ujd_8wcG_DQ0D1j0Lk6ehy7rs/view?usp=sharing)
 
 #### Publications
 
