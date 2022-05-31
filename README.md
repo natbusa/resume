@@ -32,12 +32,12 @@ man-machine interfaces, AI and cloud computing.
 
 [twitter](https://twitter.com/natbusa)  
 [linkedin](https://www.linkedin.com/in/natbusa/)  
-[github](https://github.com/natbusa)  
+[github](https://github.com/natbusa)
+[web](https://natbusa.github.io)
 
 #### Resume and other documents
 
-[natalino.busa.resume.pdf](https://github.com/natbusa/resume/raw/master/files/natalino.busa.resume.pdf)  
-[natalino.busa.intro.pdf](https://github.com/natbusa/resume/raw/master/files/natalino.busa.intro.pdf)
+[natalino.busa.resume.pdf](https://drive.google.com/file/d/1oKd_k9OP_FogNrPbG3liBbKHodbjYQ-v/view?usp=sharing)
 
 #### Publications
 
